@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "700712978563",
+    "project_id": "library-management-syste-68166",
+    "storage_bucket": "library-management-syste-68166.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700712978563:android:316468265fcd7f067833b6",
+        "android_client_info": {
+          "package_name": "com.dirtek.library_management_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700712978563-3ob38unsoe020beq276akilpoq6qipp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdcxd8iG8h6Bi0kcuPR0CF8x_FNspFdrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700712978563-3ob38unsoe020beq276akilpoq6qipp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
